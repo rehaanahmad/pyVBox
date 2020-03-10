@@ -3,7 +3,7 @@
 This is pyVBOX, a shim layer above the VirtualBox Python API.
 
 Why? Becuase the VirtualBox Python API is somewhat complex and I got
-tried of trying to remember all the details of its use. Plus it
+tired of trying to remember all the details of its use. Plus it
 changes from release to release and this gives me an abstraction layer
 to hide those changes. The software also includes a script,
 utils/pyVbox.py, that provides the ability to manipulate VMs (like
